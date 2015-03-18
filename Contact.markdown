@@ -1,0 +1,125 @@
+---
+layout: page
+title: Contact
+permalink: Contact/index.html
+---
+
+## Websites
+
+Other than this site, you can also reach me at:
+
+* [Delicious](https://delicious.com/mcuquet)
+* [Grooveshark](http://grooveshark.com/##!/mcuquet)
+* [KGS](http://www.gokgs.com), by the username
+  [`marti`](http://www.gokgs.com/graphPage.jsp?user=marti)
+* [last.fm](https://www.last.fm/user/nilvar)
+* [Library Thing](http://cat.librarything.com/profile/mcuquet/)
+* [Linked in](https://www.linkedin.com/in/mcuquet)
+* [Twitter](https://twitter.com/mcuquet)
+* [Webdiplomacy](http://webdiplomacy.net/profile.php?userID=60809)
+* [Wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet)
+
+I also contribute regularly to the [Catalan
+Wikipedia](https://ca.wikipedia.org).
+
+## Email
+
+Email: [nilvar@sindominio.net](mailto:nilvar@sindominio.net)
+Secondary email: [marti.cuquet@gmail.com](mailto:marti.cuquet@gmail.com)
+
+Please, mail only one address---I'll still get the message.  
+_Escriu-me només a una d'elles, el missatge m'arribarà igualment._
+
+Note that marti.cuquet@uab.cat, cuquet@ifae.es, and
+marti.cuquet-palau@uibk.ac.at are not active any more.  
+_Les adreces marti.cuquet@uab.cat, cuquet@ifae.es i
+marti.cuquet-palau@uibk.ac.at ja no estan actives._
+
+To send a secure email, please use the following GPG key:
+[0x49116823](http://pgp.mit.edu/pks/lookup?op=get&search=0xFE1DB22D49116823)
+([mirror](nilvar-gpg.asc)). I strongly recommend you use it.  
+_Per a enviar-me un correu segur, utilitza la meva clau GPG:
+[0x49116823](http://pgp.mit.edu/pks/lookup?op=get&search=0xFE1DB22D49116823)
+([mirall](nilvar-gpg.asc)). Et recomano que l'utilizis._
+
+### GPG key
+
+~~~
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG/MacGPG2 v2.0.20 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+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
+=Fafn
+-----END PGP PUBLIC KEY BLOCK-----
+~~~

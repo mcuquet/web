@@ -1,0 +1,19 @@
+# Site settings
+title: Martí
+email: nilvar@sindominio.net
+description: Un català vivint a Innsbruck.
+baseurl: "/~nilvar" # the subpath of your site, e.g. /blog/
+url: "https://sindominio.net" # the base hostname & protocol for your site
+
+# Jekyll settings
+gems:
+  - jekyll-pandoc
+
+# Build settings
+#markdown: kramdown
+markdown: pandoc
+
+# Pandoc options (see https://github.com/mfenner/jekyll-pandoc)
+pandoc:
+  extensions:
+    - smart
