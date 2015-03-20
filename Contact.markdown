@@ -4,24 +4,6 @@ title: Contact
 permalink: Contact/index.html
 ---
 
-## Websites
-
-Other than this site, you can also reach me at:
-
-* [Delicious](https://delicious.com/mcuquet)
-* [Grooveshark](http://grooveshark.com/##!/mcuquet)
-* [KGS](http://www.gokgs.com), by the username
-  [`marti`](http://www.gokgs.com/graphPage.jsp?user=marti)
-* [last.fm](https://www.last.fm/user/nilvar)
-* [Library Thing](http://cat.librarything.com/profile/mcuquet/)
-* [Linked in](https://www.linkedin.com/in/mcuquet)
-* [Twitter](https://twitter.com/mcuquet)
-* [Webdiplomacy](http://webdiplomacy.net/profile.php?userID=60809)
-* [Wikiloc](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet)
-
-I also contribute regularly to the [Catalan
-Wikipedia](https://ca.wikipedia.org).
-
 ## Email
 
 Email: [nilvar@sindominio.net](mailto:nilvar@sindominio.net)
