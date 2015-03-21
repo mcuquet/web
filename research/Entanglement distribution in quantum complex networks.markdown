@@ -5,7 +5,7 @@ icon: research
 permalink: research/Entanglement distribution in quantum complex networks/index.html
 ---
 
-# Abstract
+## Abstract
 
 This thesis deals with the study of quantum networks with a complex structure,
 the implications this structure has in the distribution of entanglement and
@@ -62,14 +62,10 @@ complex networks, we see that they are all comparable, and in some cases the
 proposed subgraph protocol, which needs only local information of the network,
 performs even better.
 
-# Table of contents
-
-# Cite as
-
-# Files
+## Files
 
 - [edist_qcn.pdf](edist_qcn.pdf)
 
-# See also
+## Links
 
-- [Publications](Publications)
+- [Thesis at the TDX](http://tdx.cat/handle/10803/107850)
