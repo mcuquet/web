@@ -5,7 +5,7 @@ tags:
 - Informació quàntica
 - Xarxes complexes
 - Recerca
-permalink: /txt/Actua localment, connecta globalment/
+permalink: /txt/Web of trust/
 category: txt
 ---
 
