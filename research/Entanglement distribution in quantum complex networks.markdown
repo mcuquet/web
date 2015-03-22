@@ -64,7 +64,7 @@ performs even better.
 
 ## Files
 
-- [edist_qcn.pdf](edist_qcn.pdf)
+- [edist_qcn.pdf]({{site.baseurl}}/assets/edist_qcn.pdf)
 
 ## Links
 
