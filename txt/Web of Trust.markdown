@@ -9,7 +9,7 @@ permalink: /txt/Actua localment, connecta globalment/
 category: txt
 ---
 
-Durant el doctorat vaig estudia com es transmet la informació en
+Durant el doctorat vaig estudiar com es transmet la informació en
 una xarxa on el soroll entre nodes de la xarxa limita el número màxim de
 "salts" que es poden fer sense que la informació es degradi excessivament. I
 com a exemple d'una xarxa real, vaig treballar amb la **Xarxa de Confiança** (_Web of
