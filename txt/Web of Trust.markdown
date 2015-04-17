@@ -6,7 +6,10 @@ tags:
 - Xarxes complexes
 - Recerca
 permalink: /txt/Web of trust/
-category: txt
+collection: txt
+category: Ciència i divulgació
+created: 15 des 2010
+status: esborrany
 ---
 
 Durant el doctorat vaig estudiar com es transmet la informació en
@@ -52,7 +55,7 @@ entanglement percolation in quantum complex networks", _Physical Review A_ **83*
 
 ## Documents
 
-* [OpenPGP Web of Trust]({{site.baseurl}}/assets/wot20100525.gml.gz))
+* [OpenPGP Web of Trust]({{site.assetsurl}}wot20100525.gml.gz)
 
 ## Vegeu també
 

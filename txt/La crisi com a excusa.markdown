@@ -19,7 +19,6 @@ affiliations:
 - key: atc
   name: Assemblea de Tercer Cicle de la UAB.
   url: http://doctorandsuab.wordpress.com/
-date: 30 mar 2011
 tags:
 - Universitat
 abstract: |
@@ -33,7 +32,10 @@ abstract: |
   la Universitat Autònoma de Barcelona, i presentem la resistència i resposta
   que s'ha generat des de l'Assemblea de Tercer Cicle d'aquesta universitat.
 permalink: /txt/La crisi com a excusa/
-category: txt
+collection: txt
+category: Política
+created: 30 mar 2011
+status: acabat
 ---
 
 ## Introducció 

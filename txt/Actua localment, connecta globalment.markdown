@@ -2,13 +2,15 @@
 layout: page
 title: Actua localment, connecta globalment
 subtitle: Comunicació quàntica en xarxes complexes
-date: 31 des 2011
 tags:
 - Divulgació científica
 - Informació quàntica
 - Recerca
 permalink: /txt/Actua localment, connecta globalment/
-category: txt
+collection: txt
+category: Ciència i divulgació
+created: 31 des 2011
+status: acabat
 ---
 
 Les xarxes impregnen totes les estructures d'informació. Estan per tot arreu:

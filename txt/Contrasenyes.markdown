@@ -1,15 +1,17 @@
 ---
 layout: page
 title: "Wikileaks i the Guardian: publicar una contrasenya sempre és una mala idea"
-date: 2 set 2011
 abstract: "La setmana passada Wikileaks [va anunciar](http://www.elpais.com/articulo/internacional/Wikileaks/anuncia/publicacion/todos/cables/diplomaticos/proteger/fuentes/elpepuint/20110902elpepuint_3/Tes) que publicaria tots els cables dimplomàtics de les ambaixades dels Estats Units (el conegut com a cas cablegate) sense editar; és a dir, sense cap alteració que amagués, per exemple, els noms dels informadors. La raó per fer-ho és que la contrasenya que protegia l'arxiu encriptat amb tota la informació havia estat publicada obertament per l'editor executiu d'investigacions del diari anglès the Guardian, David Leigh, en el seu llibre sobre Wikileaks, i que per tant ja no tenia sentit seguir protegint la informació. Tanmateix, ara els principals diaris que van començar publicant el cas cablegate ---inclòs El País--- [han emès un comunicat](http://www.elpais.com/articulo/internacional/Wikileaks/anuncia/publicacion/todos/cables/diplomaticos/proteger/fuentes/elpepuint/20110902elpepuint_3/Tes) condemnant la decisió de Wikileaks (perquè desprotegeix les fonts) però no l'error de David Leigh i the Guardian."
 tags:
 - Wikileaks
 permalink: /txt/Contrasenyes/
-category: txt
+collection: txt
+category: Altres
+created: 2 set 2011
+status: esborrany
 ---
 
-![Wikileaks](wikileaks.png)  
+![Wikileaks]({{site.imagesurl}}wikileaks.png)  
 Fa 9 mesos [WikiLeaks estava en boca de tots][1]. El 28 de novembre del 2010
 cinc diaris (*El País*, *Le Monde*, *Der Spiegel*, *The Guardian* i *The New
 York Times*) [començaven a publicar][2] els cables enviats entre el Departament

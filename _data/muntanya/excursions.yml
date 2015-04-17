@@ -177,36 +177,6 @@ excursions:
     wikiloc: 7896106
     data: 28 de setembre de 2014
 
-  - nom: Tossa Plana de Lles (2.916 m)
-    url: Tossa Plana de Lles
-    data: "22 d'agost de 2010"
-    situacio: La Cerdanya, Catalunya
-    serralada: Pirineu oriental
-    alcada_inicial: 2.117 m
-    lloc_inicial: refugi del Pradell
-    alcada_final: 2.117 m
-    lloc_final: refugi del Pradell
-    alcada_max: 2.916 m
-    lloc_max: Tossa Plana
-    desnivell_pujada: 799 m
-    desnivell_baixada: 799 m
-    distancia: 5,7 km
-    durada: 2h 45
-
-  - nom: Ibons de Batisielles
-    url: Ibons de Batisielles
-    wikiloc: 4767151
-    data: 29-30 de juny de 2013
-    situacio: Ribagorça, Aragó
-    serralada: Pirineu aragonès
-    alcada_inicial: 1.140 m
-    lloc_inicial: Benasc
-    alcada_final: 1.140
-    lloc_final: Benasc
-    alcada_max: ~2.771
-    lloc_max: Collado de la Plana
-    durada: 15h (4h + 11h)
-
   - nom: "Cascades d'Ardonés"
     url: "Cascades d'Ardones"
     wikiloc: 4801290
@@ -223,6 +193,49 @@ excursions:
     distancia: 14,11 km
     durada: 4h 32
     parades: amb parades
+
+  - nom: De Porta a Lles
+    url: De Porta a Lles
+    data: "5 d'agost de 2008"
+    situacio: La Cerdanya, Catalunya
+    serralada: Pirineu oriental
+    alcada_inicial: 1.511 m
+    lloc_inicial: Porta
+    alcada_final: 1.471 m
+    lloc_final: Lles de Cerdanya
+    alcada_max: 2.519 m
+    lloc_max: Portella Blanca
+    durada: ~10h
+
+  - nom: Ibons de Batisielles
+    url: Ibons de Batisielles
+    wikiloc: 4767151
+    data: 29-30 de juny de 2013
+    situacio: Ribagorça, Aragó
+    serralada: Pirineu aragonès
+    alcada_inicial: 1.140 m
+    lloc_inicial: Benasc
+    alcada_final: 1.140
+    lloc_final: Benasc
+    alcada_max: ~2.771
+    lloc_max: Collado de la Plana
+    durada: 15h (4h + 11h)
+
+  - nom: Tossa Plana de Lles (2.916 m)
+    url: Tossa Plana de Lles
+    data: "22 d'agost de 2010"
+    situacio: La Cerdanya, Catalunya
+    serralada: Pirineu oriental
+    alcada_inicial: 2.117 m
+    lloc_inicial: refugi del Pradell
+    alcada_final: 2.117 m
+    lloc_final: refugi del Pradell
+    alcada_max: 2.916 m
+    lloc_max: Tossa Plana
+    desnivell_pujada: 799 m
+    desnivell_baixada: 799 m
+    distancia: 5,7 km
+    durada: 2h 45
 
   - nom: Volta al Montsec
     data: 29 de març - 1 de juny de 2010

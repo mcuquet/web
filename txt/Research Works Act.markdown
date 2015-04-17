@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research Works Act, la "SOPA" contra l'accés obert a la ciència
-date: 1 feb 2012
 abstract: |
   Al Estats Units, la Research Works Act (RWA), o Llei dels treballs
   d'investigació, segueix l'estel·la de la SOPA i la PIPA i pretén acabar amb
@@ -12,7 +11,10 @@ abstract: |
   afegit de les editorials és mínim comparat amb la pròpia feina dels autors i
   la de la comunitat científica que revisa els articles.
 permalink: /txt/Research Works Act/
-category: txt
+collection: txt
+category: Política
+created: 1 feb 2012
+status: acabat
 ---
 
 Darrerament s'està parlant molt dels projectes de llei **_[Stop Online Piracy

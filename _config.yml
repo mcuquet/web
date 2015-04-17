@@ -1,8 +1,9 @@
 # Site settings
-title: Martí
+title: Martí Cuquet
 email: nilvar@sindominio.net
-description: Un català vivint a Innsbruck.
 baseurl: "/~nilvar" # the subpath of your site, e.g. /blog/
+assetsurl: "/~nilvar/assets/"
+imagesurl: "/~nilvar/images/"
 url: "https://sindominio.net" # the base hostname & protocol for your site
 
 # Jekyll settings
