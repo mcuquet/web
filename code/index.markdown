@@ -6,12 +6,12 @@ category: code
 
 Check also [my github account](https://github.com/mcuquet).
 
-## [`classical-crypto`](https://github.com/mcuquet/classical-crypto)
+## [classical-crypto](https://github.com/mcuquet/classical-crypto)
 
 A small collection of classical cryptography ciphers I wrote some time ago
 while learning Perl.
 
-## [`QITools-mathematica`](https://github.com/mcuquet/QITools-mathematica)
+## [QITools-mathematica](https://github.com/mcuquet/QITools-mathematica)
 
 A Quantum Information Theory toolkit for Mathematica. I still have some
 functions waiting to be included, mainly those related to Graph Theory.
