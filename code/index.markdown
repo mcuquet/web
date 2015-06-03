@@ -11,6 +11,11 @@ Check also [my github account](https://github.com/mcuquet).
 A small collection of classical cryptography ciphers I wrote some time ago
 while learning Perl.
 
+## [genea-tools](https://github.com/mcuquet/genea-tools)
+
+Right now just a script to parse an Ahnentafel txt file in Spanish and produce
+a Gramps XML file, but I'll be adding more stuff soon.
+
 ## [QITools-mathematica](https://github.com/mcuquet/QITools-mathematica)
 
 A Quantum Information Theory toolkit for Mathematica. I still have some
