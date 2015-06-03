@@ -49,7 +49,7 @@ pistes de trineu al Tirol.
     + [Stiglreith](http://ca.wikiloc.com/wikiloc/view.do?id=3886550) + [Stiglreith (baixada en trineu)](http://ca.wikiloc.com/wikiloc/view.do?id=3886797) (Oberperfuss)
     + Thaurer Alm (Rum/Thaur)
     + [Weidener Hütte (Nafinghütte)](http://ca.wikiloc.com/wikiloc/view.do?id=5986494) (Weerberg)
-    + [Wilten - Natters](http://ca.wikiloc.com/wikiloc/user.do?name=mcuquet&id=665616)
+    + [Wilten - Natters](http://ca.wikiloc.com/wikiloc/view.do?id=9826306)
 
 * **Ötztal**
     + [Gampe Alm / Gampe Thaya](http://ca.wikiloc.com/wikiloc/view.do?id=5015386) (Sölden)
