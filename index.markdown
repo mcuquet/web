@@ -1,6 +1,7 @@
 ---
 layout: cover
 title: Martí Cuquet
+tagline: "Physicist | Data scientist"
 ---
 
 <ul>

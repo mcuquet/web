@@ -5,8 +5,11 @@ icon: research
 permalink: research/index.html
 ---
 
-I was a researcher in [quantum information
-theory](http://en.wikipedia.org/wiki/Quantum_information_theory).  I was---and
+I am a researcher in [data
+science](https://en.wikipedia.org/wiki/Data_science) at the [Semantic
+Technology Institute Innsbruck](http://sti-innsbruck.at/).
+Before that, I was a researcher in [quantum information
+theory](http://en.wikipedia.org/wiki/Quantum_information_theory). I was---and
 still am---interested in multipartite entanglement and complex networks.
 
 I studied [physics](http://www.uab.es/departament/fisica/) at [Universitat
