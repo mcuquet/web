@@ -121,6 +121,17 @@ excursions:
     situacio: Tirol
     serralada: Kalkkögel, Stubaier Alpen, Alps
 
+  - nom: Nockspitze (2.404 m)
+    url: Nockspitze
+    wikiloc: 10355387
+    data: "1 d'agost de 2015"
+    situacio: Tirol
+    serralada: Kalkkögel, Stubaier Alpen, Alps
+    alcada_inicial: 1.605 m
+    alcada_max: 2.404 m
+    lloc_max: Nockspitze
+    desnivell_pujada: 799 m
+
   - nom: Salfains (2.000 m)
     url: Salfains
     wikiloc: 5514412
