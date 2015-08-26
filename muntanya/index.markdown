@@ -37,6 +37,7 @@ pistes de trineu al Tirol.
     + [Arzler Alm (Hungerburg)](http://ca.wikiloc.com/wikiloc/view.do?id=4071958) (Innsbruck - Hungerburg)
     + [Arzler Alm (Mülhauer Klamm)](http://ca.wikiloc.com/wikiloc/view.do?id=6941407) (Innsbruck - Mülhau)
     + [Birgitzer Alm](http://ca.wikiloc.com/wikiloc/view.do?id=7652857) (Axams)
+    + [Boscheben (Bergstation Patscherkofelbahn)](http://ca.wikiloc.com/wikiloc/view.do?id=10605919) (Igls)
     + [Götzner Alm](http://ca.wikiloc.com/wikiloc/view.do?id=4923529) (Götzens)
     + [Eichhof](http://ca.wikiloc.com/wikiloc/view.do?id=4338594) (Innsbruck - Wilten)
     + [Enzian Hütte](http://ca.wikiloc.com/wikiloc/view.do?id=3936454) (Innsbruck - Mülhau)
