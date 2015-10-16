@@ -67,6 +67,8 @@ source entanglement.
 Katharina Schwaiger, David Sauerwein, Martí Cuquet, Julio I. de Vicente,
 Barbara Kraus
 
+[Physical Review Letters 115, 150502 (2015)](http://dx.doi.org/10.1103/PhysRevLett.115.150502)
+
 [arXiv:1503.00615](http://arxiv.org/abs/1503.00615)
 
 We introduce two operational entanglement measures which are applicable for
